@@ -1,4 +1,4 @@
-# 💖 Happy 25th Monthsary - A Web-based Monthsary Letter 
+# 💖 Happy 25th Monthsary - A Website Monthsary Letter 
 
 A custom-built, responsive, and heartfelt anniversary web application dedicated to my lovely Girlfriend, celebrating our **2 years and 1 month** milestone. This project serves as a creative digital love letter. 
 
