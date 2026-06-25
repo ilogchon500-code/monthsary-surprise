@@ -1,9 +1,6 @@
-# monthsary-surprise
-A sweet, responsive web-based monthsary letter created using HTML, CSS, and JavaScript.
+# 💖 Happy 25th Monthsary - A Web-based Monthsary Letter 
 
-# 💖 Happy 25th Monthsary - Special Celebration Website
-
-A custom-built, responsive, and heartfelt anniversary web application dedicated to my significant other, celebrating our **2 years and 1 month** milestone. This project serves as a creative digital love letter and a keepsake of our journey together.
+A custom-built, responsive, and heartfelt anniversary web application dedicated to my lovely Girlfriend, celebrating our **2 years and 1 month** milestone. This project serves as a creative digital love letter. 
 
 ✨ **Live Link:** [https://chon-web.netlify.app/](https://chon-web.netlify.app/)
 
